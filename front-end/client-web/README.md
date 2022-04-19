@@ -12,7 +12,7 @@ In the project directory, you can run:
 > Development env
 ### `yarn dev`
 
-> The backend source code is [here](https://github.com/snigdha-9/painting/api)
+> The backend source code is [here](https://github.com/snigdha-9/My_painting/api)
 
 ## Requirements
 - Add a .env file with all required env variables on .env.local
